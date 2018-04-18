@@ -14,5 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "nuxt": "^1.4.0"
+  },
+  "config": {
+    "nuxt": {
+      "port": "9002"
+    }
   }
 }

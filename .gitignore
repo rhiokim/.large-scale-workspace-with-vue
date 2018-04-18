@@ -22,6 +22,7 @@ yarn-error.log*
 npm-debug.log
 v8.log
 package-lock.json
+lerna-debug.log
 
 # firebase
 credentials

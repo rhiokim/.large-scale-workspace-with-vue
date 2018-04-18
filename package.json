@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"dev": "lerna exec --parallel -- npm run dev"
+	},
 	"devDependencies": {
 		"lerna": "^2.10.1"
 	}
